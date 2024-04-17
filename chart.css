@@ -1,0 +1,30 @@
+.body {
+background-color: rgb(189, 230, 217);
+display: flex;
+flex-wrap:wrap;
+justify-content: center;
+
+}
+
+.titulo{
+color: rgb(33, 33, 163);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+justify-self:center;
+font-size: 80px;
+
+}
+
+.conteiner{
+display: flex;
+justify-content: space-around;
+
+}
+
+
+.canva{
+    position: relative; 
+    height:60vh; 
+    width:72vw
+
+}
+
